@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "930177305899",
+    "project_id": "hostel-locator-edf50",
+    "storage_bucket": "hostel-locator-edf50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930177305899:android:b3f82fd39495c477e7896e",
+        "android_client_info": {
+          "package_name": "com.example.hostelfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930177305899-id0ee04bqju0mde3l70kikf2l1fmf8v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hostelfinder",
+            "certificate_hash": "9e3d65bad3e267ba9a3cf15629f155274d547be3"
+          }
+        },
+        {
+          "client_id": "930177305899-vionmm602ejqdtin5ialvudbc2p05g65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFf8nQgrjgg2C2Tog_G3eojvv5i20C4LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930177305899-vionmm602ejqdtin5ialvudbc2p05g65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
