@@ -8,8 +8,7 @@
    <application
         android:label="Hostel Locator"
         android:icon="@mipmap/ic_launcher">
-         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyBWFaF3WnmgoDj6J8vqkJgy-uQ5-Jrr1a4"/>
+         
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
